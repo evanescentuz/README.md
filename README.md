@@ -58,5 +58,6 @@
   <tr><td>𝑨𝒓𝒕𝒊𝒔𝒕</td><td>🎨</td></tr>
   <tr><td>𝑵𝒖𝒓𝒔𝒆</td><td>🏨</td></tr>
 </table>
+ <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%"/>
 
 <details>
