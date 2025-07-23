@@ -21,7 +21,7 @@
 
     </td>
     <td>
-      <img src="https://your-image-url.com/rarity.gif" alt="Rarity Image" width="150px" />
+       <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="20%"/>
     </td>
   </tr>
 </table>
