@@ -3,6 +3,8 @@
     <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
   </a>
 </p>
+<details>
+<summary><b>Deploy to Heroku</b></summary>
 <table>
   <tr>
     <td>
@@ -57,3 +59,4 @@
   <tr><td>𝑵𝒖𝒓𝒔𝒆</td><td>🏨</td></tr>
 </table>
 
+<details>
