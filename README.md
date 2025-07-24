@@ -4,6 +4,69 @@
   </a>
 </p>
 
+## ➲ About the Bot:
+
+**━━━━━━━ᴡᴀɪꜰᴜ • ɢʀᴀʙʙᴇʀ━━━━━━━**  
+⎆ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴀʙʙɪɴɢ ʙᴏᴛ ғᴏʀ ɢʀᴏᴜᴘꜱ  
+⎆ ꜱᴘᴀᴡɴꜱ ʀᴀɴᴅᴏᴍ ᴡᴀɪꜰᴜꜱ ɪɴ ᴄʜᴀᴛ  
+⎆ ɢʀᴀʙ ᴛʜᴇ ᴡᴀɪꜰᴜ ʙᴇꜰᴏʀᴇ ᴀɴʏᴏɴᴇ ᴇʟꜱᴇ  
+⎆ ʙᴜɪʟᴅ ʏᴏᴜʀ ᴏᴡɴ ʜᴀʀᴇᴍ  
+⎆ ᴛʀᴀᴅᴇ, ɢɪꜰᴛ, ᴀɴᴅ ꜰᴀᴠᴏʀɪᴛᴇ ᴡᴀɪꜰᴜꜱ  
+⎆ ʀᴀʀɪᴛʏ ᴍᴏᴅᴇꜱ, ᴘʀᴏꜰɪʟᴇꜱ & ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅꜱ  
+⎆ ꜱɪᴍᴘʟᴇ ᴜɪ, ᴀᴇꜱᴛʜᴇᴛɪᴄ ꜱᴛʏʟᴇ  
+**━━━━━━━ᴡᴀɪꜰᴜ • ɢʀᴀʙʙᴇʀ━━━━━━━**
+
+## ➲ Below are the commands for users:
+
+**━━━━━━━ᴄᴏᴍᴍᴀɴᴅꜱ━━━━━━━**  
+⎆ `/grab` : ᴛᴏ ɢʀᴀʙ ᴀ ᴡᴀɪꜰᴜ  
+⎆ `/harem` : ᴛᴏ ꜱᴇᴇ ʏᴏᴜʀ ɢʀᴀʙʙᴇᴅ ᴡᴀɪꜰᴜ  
+⎆ `/hmode` : ᴛᴏ ᴄʜᴀɴɢᴇ ᴡᴀɪꜰᴜ ᴍᴏᴅᴇ  
+⎆ `/fav` : ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴡᴀɪꜰᴜ ʏᴏᴜʀ ꜰᴀᴠᴏᴜʀɪᴛᴇ  
+⎆ `/gift` : ᴛᴏ ɢɪꜰᴛ ᴀ ᴡᴀɪꜰᴜ  
+⎆ `/trade` : ᴛᴏ ᴛʀᴀᴅᴇ ᴡᴀɪꜰᴜꜱ  
+⎆ `/chatop` : ʏᴏᴜʀ ᴄʜᴀᴛᴛᴏᴘ ɢʀᴀʙʙᴇʀꜱ  
+⎆ `/changetime` : ᴄʜᴀɴɢᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴀᴘᴘᴇᴀʀ ᴛɪᴍᴇ (ᴏɴʟʏ ᴡᴏʀᴋꜱ ɪɴ ɢʀᴏᴜᴘꜱ)  
+⎆ `/top` : ᴛᴏ ꜱᴇᴇ ᴛᴏᴘ ɢʀᴀʙʙᴇʀꜱ  
+⎆ `/help` : ꜰᴏʀ ʜᴇʟᴘ  
+⎆ `/waifu` : ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʀᴀɴᴅᴏᴍ ᴡᴀɪꜰᴜ ᴘɪᴄ  
+⎆ `/profile` : ᴛᴏ ꜱʜᴏᴡ ʏᴏᴜʀ ᴘʀᴏꜰɪʟᴇ ᴡᴀɪꜰᴜ ɢʀᴀʙʙɪɴɢ ꜱᴛᴀᴛᴜꜱ  
+⎆ `/waifufind` : ᴛᴏ ꜰɪɴᴅ ᴡᴀɪꜰᴜ ʙʏ ɪᴅ  
+⎆ `/anime` : ᴛᴏ ꜰɪɴᴅ ᴡᴀɪꜰᴜ ʙʏ ᴀɴɪᴍᴇ  
+⎆ `/redeem` : ᴛᴏ ɢᴇᴛ ᴡᴀɪꜰᴜꜱ ᴠɪᴀ ʀᴇᴅᴇᴇᴍ/ᴘʀᴏᴍᴏᴄᴏᴅᴇꜱ  
+**━━━━━━━ᴄᴏᴍᴍᴀɴᴅꜱ━━━━━━━**
+
+## ➲ How to Deploy
+
+**━━━━━━━ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ɢᴜɪᴅᴇ━━━━━━━**
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/your-waifu-bot.git
+cd your-waifu-bot
+```
+
+2. **Install dependencies**
+
+```bash
+Make sure you have Python 3.8+ installed, then run:
+pip install -r requirements.txt
+```
+
+3. **Run the bot**
+
+```bash
+python bot.py
+```
+
+4. **Add the bot to your Telegram group**  
+   Invite your bot to your Telegram group and give it necessary permissions.
+
+5. **Enjoy your waifu grabber!**
+
+**━━━━━━━ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ɢᴜɪᴅᴇ━━━━━━━**
+
 <details>
   <summary>🧩 <strong>Rarity Map (Click to expand)</strong></summary>
 
